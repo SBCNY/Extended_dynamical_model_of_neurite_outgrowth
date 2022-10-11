@@ -1,0 +1,132 @@
+Matlab name	Figure name	Description	Initial value	unit
+sg	T GsNu rmfeamcber aanree a	Trans Golgi Network 	50	
+nb1_cg	VBe1s i-c lCeBsC	Coat B budded membrane from TNG in CBC 	0.03	
+nb1_mtc	VBe1s i-c lMeTsC	Coat B budded membrane from TNG - MTC 	2.5433	
+nb1_cpm	VBe1s i-c lGeCsC	Coat B budded membrane from TNG in GCC 	7.6299	
+spm	Gsruorwftahc ec oanree am e m b r a n e 	Growth cone plasma membrane	50	
+na1_cg	VAe1s i-c lCeBsC	Coat A budded membrane from TGN in CBC 	2.2911e-06	
+na1_mtc	VAe1s i-c lMeTsC	Coat A budded membrane from TNG in MTC	0.0008038	
+na1_cpm	VAe1s i-c lGeCsC	Coat A budded membrane from TNG in GCC 	0.0067794	
+nb2_cg	VBe2s i-c lCeBsC	Coat B budded membrane from plasma membrane in CBC 	0.01252	
+nb2_mtc	VBe2s i-c lMeTsC	Coat B budded membrane from plasma membrane in MTC	6.5014e-05	
+nb2_cpm	VBe2s i-c lGeCsC	Coat B budded membrane from plasma membrane in GCC 	4.0126e-05	
+na2_cg	VAe2s i-c lCeBsC	Coat A budded membrane from plasma membrane in CBC 	0.55556	
+na2_mtc	VAe2s i-c lMeTsC	Coat A budded membrane from plasma membrane in MTC	0.2849	
+na2_cpm	VAe2s i-c lGeCsC	Coat A budded membrane from plasma membrane in GCC 	0.14	
+s3	Nseuurrfiatcee  sahraefat   m e m b r a n e 	Neurite shaft surface area	62.8319	
+yy_g	STNGANR E   Y 	SNARE Y in TGN	22.0942	
+yy_b1_cg	SBN1A R-E  CYB C	Coat B budded total Y SNAREs from TNG in CBC	0.33348	
+yy_b1_mtc	SBN1A R-E  MYT C	Coat B budded total Y SNAREs from TNG in MTC	28.2713	
+yy_b1_cpm	SBN1A R-E  GYC C	Coat B budded total Y SNAREsfrom TNG in GCC	84.8139	
+yy_pm	SGNCA R E   Y 	SNARE Y at growth cone membrane	20000	
+yy_a1_cg	SAN1A R-E  CYB C	Coat A budded total Y SNAREs from TNG in CBC	1.9228e-11	
+yy_a1_mtc	SAN1A R-E  MYT C	Coat A budded total Y SNAREs from TNG - MTC	6.746e-09	
+yy_a1_cpm	SAN1A R-E  GYC C	Coat A budded total Y SNAREs from TNG - GCC	0.00011986	
+yy_b2_cg	SBN2A R-E  CYB C	Coat B budded total Y SNAREs from plasma membrane - CBC	10.449	
+yy_b2_mtc	SBN2A R-E  MYT C	Coat B budded total Y SNAREs from plasma membrane in MTU	0.054339	
+yy_b2_cpm	SBN2A R-E  GYC C	Coat B budded total Y SNAREs from plasma membrane - GCC	0.033537	
+yy_a2_cg	SAN2A R-E  CYB C	Coat A budded total Y SNAREs from plasma membrane - CBC	9.4014	
+yy_a2_mtc	SAN2A R-E  MYT C	Coat A budded total Y SNAREs from plasma membrane in MTU	4.8213	
+yy_a2_cpm	SAN2A R-E  GYC C	Coat A budded total Y SNAREs from plasma membrane - GCC	2.3692	
+vv_g	STNGANR E   V 	Total V SNAREs in TGN	20.6316	
+vv_b1_cg	SBN1A R-E  CVB C	Coat B budded total V SNAREs from TNG - CBC	7.5	
+vv_b1_mtc	SBN1A R-E  MVT C	Coat B budded total V SNAREs from TNG - MTC	635.8221	
+vv_b1_cpm	SBN1A R-E  GVC C	Coat B budded total V SNAREs from TNG - GCC	1907.4662	
+vv_pm	SGNCA R E   V 	SNARE V at growth cone membrane	4498.003	
+vv_a1_cg	S NAA1R E-  VC B C	Coat A budded total V SNAREs from TNG - CBC	1.2923e-07	
+vv_a1_mtc	SAN1A R-E  MVT C	Coat A budded total V SNAREs from TNG - MTC	4.5337e-05	
+vv_a1_cpm	SAN1A R-E  GVC C	Coat A budded total V SNAREs from TNG - GCC	0.00049928	
+vv_b2_cg	SBN2A R-E  CVB C	Coat B budded total V SNAREs from plasma membrane - CBC	7.0517	
+vv_b2_mtc	SBN2A R-E  MVT C	Coat B budded total V SNAREs from plasma membrane - MTC	0.036543	
+vv_b2_cpm	SBN2A R-E  GVC C	Coat B budded total V SNAREs from plasma membrane - GCC	0.022554	
+vv_a2_cg	SAN2A R-E  CVB C	Coat A budded total V SNAREs from plasma membrane - CBC	211.4387	
+vv_a2_mtc	SAN2A R-E  MVT C	Coat A budded total V SNAREs from plasma membrane - MTC	108.4301	
+vv_a2_cpm	SAN2A R-E  GVC C	Coat A budded total V SNAREs from plasma membrane - GCC	53.2826	
+xx_g	STNGANR E   X 	SNARE X - TGN	19999.7387	
+xx_b1_cg	SBN1A R-E  CXB C	Coat B budded total X SNAREs from TNG - CBC	0.63204	
+xx_b1_mtc	SBN1A R-E  MXT C	Coat B budded total X SNAREs from TNG - MTC	53.5819	
+xx_b1_cpm	SBN1A R-E  GXC C	Coat B budded total X SNAREs from TNG - GCC	160.7458	
+xx_pm	S NGACR E   X 	SNARE X at growth cone membrane	2	
+xx_a1_cg	SAN1A R-E  CXB C	Coat A budded total X SNAREs from TNG - CBC	0.0019236	
+xx_a1_mtc	SAN1A R-E  MXT C	Coat A budded total X SNAREs from TNG - MTC	0.67487	
+xx_a1_cpm	SAN1A R-E  GXC C	Coat A budded total X SNAREs from TNG - GCC	5.6971	
+xx_b2_cg	SBN2A R-E  CXB C	Coat B budded total X SNAREs from plasma membrane - CBC	0.00048599	
+xx_b2_mtc	SBN2A R-E  MXT C	Coat B budded total X SNAREs from plasma membrane - MTC	5.4461e-10	
+xx_b2_cpm	SBN2A R-E  GXC C	Coat B budded total X SNAREs from plasma membrane - GCC	3.3613e-10	
+xx_a2_cg	SAN2A R-E  CXB C	Coat A budded total X SNAREs from plasma membrane - CBC	17.8183	
+xx_a2_mtc	SAN2A R-E  MXT C	Coat A budded total X SNAREs from plasma membrane - MTC	9.1376	
+xx_a2_cpm	SAN2A R-E  GXC C	Coat A budded total X SNAREs from plasma membrane - GCC	4.4902	
+uu_g	S NTAGRNE   U 	SNARE U - TGN	3503.0379	
+uu_b1_cg	SBN1A R-E  CUB C	Coat B budded total U SNAREs from TNG - CBC	11.0848	
+uu_b1_mtc	SBN1A R-E  MUT C	Coat B budded total U SNAREs from TNG - MTC	939.7258	
+uu_b1_cpm	SBN1A R-E  GUC C	Coat B budded total U SNAREs from TNGv - GCC	2819.1774	
+uu_pm	SGNCA R E   U 	SNARE U at growth cone membrane	66.4791	
+uu_a1_cg	SAN1A R-E  CUB C	Coat A budded total U SNAREs from TNG - CBC	0.001279	
+uu_a1_mtc	SAN1A R-E  MUT C	Coat A budded total U SNAREs from TNG - MTC	0.44874	
+uu_a1_cpm	SAN1A R-E  GUC C	Coat A budded total U SNAREs from TNG - GCC	3.7795	
+uu_b2_cg	SBN2A R-E  CUB C	Coat B budded total U SNAREs from plasma membrane - CBC	0.0011828	
+uu_b2_mtc	SBN2A R-E  MUT C	Coat B budded total U SNAREs from plasma membrane - MTC	3.6171e-06	
+uu_b2_cpm	SBN2A R-E  GUC C	Coat B budded total U SNAREs from plasma membrane - GCC	2.2324e-06	
+uu_a2_cg	SAN2A R-E  CUB C	Coat A budded total U SNAREs from plasma membrane - CBC	312.5	
+uu_a2_mtc	SAN2A R-E  MUT C	Coat A budded total U SNAREs from plasma membrane - MTC	160.2564	
+uu_a2_cpm	SAN2A R-E  GUC C	Coat A budded total U SNAREs from plasma membrane - GCC	78.75	
+kk_g	KTiGnNe s i n   R 	Kinesin R - TGN	1.0757	
+kk_b1_cg	KBi1n e-s iCnB CR 	Coat B budded total kinesins receptors from TNG - CBC	0.7436	
+kk_b1_mtc	KBi1n e-s iMnT CR 	Coat B budded total kinesins receptors from TNG - MTC	63.04	
+kk_b1_cpm	KBi1n e-s iGnC CR 	Coat B budded total kinesins receptors from TNG - GCC	189.12	
+kk_pm	K iGnCe s i n   R 	Kinesin R at growth cone membrane	184.4922	
+kk_a1_cg	KAi1n e-s iCnB CR 	Coat A budded total kinesins receptors from TNG - CBC	7.0251e-07	
+kk_a1_mtc	KAi1n e-s iMnT CR 	Coat A budded total kinesins receptors from TNG - MTC	0.00024645	
+kk_a1_cpm	KAi1n e-s iGnC CR 	Coat A budded total kinesins receptors from TNG - GCC	0.0020644	
+kk_b2_cg	KBi2n e-s iCnB CR 	Coat B budded total kinesins receptors from plasma membrane - CBC	1.6756	
+kk_b2_mtc	KBi2n e-s iMnT CR 	Coat B budded total kinesins receptors from plasma membrane - MTC	0.0087054	
+kk_b2_cpm	KBi2n e-s iGnC CR 	Coat B budded total kinesins receptors from plasma membrane - GCC	0.0053728	
+kk_a2_cg	KAi2n e-s iCnB CR 	Coat A budded total kinesins receptors from plasma membrane - CBC	20.9636	
+kk_a2_mtc	KAi2n e-s iMnT CR 	Coat A budded total kinesins receptors from plasma membrane - MTC	10.7505	
+kk_a2_cpm	KAi2n e-s iGnC CR 	Coat A budded total kinesins receptors from plasma membrane - GCC	5.2828	
+dd_g	D yTnGeNi n   R 	Dynein R - TGN	66.8333	
+dd_b1_cg	D yBn1e i-n  CRB C  	Coat B budded total dynein receptors from TNG - CBC	0.49521	
+dd_b1_mtc	D yBn1e i-n  MRT C  	Coat B budded total dynein receptors from TNG - MTC	41.9818	
+dd_b1_cpm	D yBn1e i-n  GRC C  	Coat B budded total dynein receptors from TNG - GCC	125.9454	
+dd_pm	D yGnCe i n   R 	Dynein R at growth cone membrane	1.0938	
+dd_a1_cg	D yAn1e i-n  CRB C  	Coat A budded total dynein receptors from TNG - CBC	0.00030677	
+dd_a1_mtc	D yAn1e i-n  MRT C  	Coat A budded total dynein receptors from TNG - MTC	0.10763	
+dd_a1_cpm	D yAn1e i-n  GRC C  	Coat A budded total dynein receptors from TNG - GCC	0.90727	
+dd_b2_cg	D yBn2e i-n  CRB C  	Coat B budded total dynein receptors from plasma membrane - CBC	0.0038582	
+dd_b2_mtc	D yBn2e i-n  MRT C  	Coat B budded total dynein receptors from plasma membrane - MTC	1.9925e-05	
+dd_b2_cpm	D yBn2e i-n  GRC C  	Coat B budded total dynein receptors from plasma membrane - GCC	1.2297e-05	
+dd_a2_cg	D yAn2e i-n  CRB C  	Coat A budded total dynein receptors from plasma membrane - CBC	13.9608	
+dd_a2_mtc	D yAn2e i-n  MRT C  	Coat A budded total dynein receptors from plasma membrane - MTC	7.1594	
+dd_a2_cpm	D yAn2e i-n  GRC C  	Coat A budded total dynein receptors from plasma membrane - GCC	3.5181	
+cc1_g	R eTcGrNu i t m e n t   F a c t o r   1 	RF1 - TGN	100	
+cc1_b1_cg	R eBc1r u-i tCmBeCn t   f a c t o r   1 	Coat B budded total recruitment factor 1 from TNG - CBC	1.2e-06	
+cc1_b1_mtc	R eBc1r u-i tMmTeCn t   f a c t o r   1 	Coat B budded total recruitment factor 1 from TNG - MTC	0.00010173	
+cc1_b1_cpm	R eBc1r u-i tCmGeCn t   f a c t o r   1 	Coat B budded total recruitment factor 1 from TNG - GCC	0.00030519	
+cc1_pm	R eGcCr u i t m e n t   f a c t o r   1 	RF1 at growth cone membrane	0.0015224	
+cc1_a1_cg	R eAc1r u-i tCmBeCn t   f a c t o r   1 	Coat B budded total recruitment factor 1 from TNG - CBC	3.0544e-05	
+cc1_a1_mtc	R eAc1r u-i tMmTeCn t   f a c t o r   1 	Coat A budded total recruitment factor 1 from TNG - MTC	0.010716	
+cc1_a1_cpm	R eAc1r u-i tGmCeCn t   f a c t o r   1 	Coat A budded total recruitment factor 1 from TNG - GCC	0.090358	
+cc1_b2_cg	R eBc2r u-i tCmBeCn t   f a c t o r   1 	Coat B budded total recruitment factor 1 from plasma membrane - CBC	7.4581e-11	
+cc1_b2_mtc	R eBc2r u-i tMmTeCn t   f a c t o r   1 	Coat B budded total recruitment factor 1 from plasma membrane - MTC	3.6518e-13	
+cc1_b2_cpm	R eBc2r u-i tGmCeCn t   f a c t o r   1 	Coat B budded total recruitment factor 1 from plasma membrane - GCC	2.2539e-13	
+cc1_a2_cg	R eAc2r u-i tCmBeCn t   f a c t o r   1 	Coat A budded total recruitment factor 1 from plasma membrane - CBC	3.383e-05	
+cc1_a2_mtc	R eAc2r u-i tMmTeCn t   f a c t o r   1 	Coat A budded total recruitment factor 1 from plasma membrane - MTC	1.7348e-05	
+cc1_a2_cpm	R eAc2r u-i tGmCeCn t   f a c t o r   1 	Coat A budded total recruitment factor 1 from plasma membrane - GCC	8.525e-06	
+cc2_g	R eTcGrNu i t m e n t   f a c t o r   2 	RF2 - TGN	0.00065687	
+cc2_b1_cg	R eBc1r u-i tCmBeCn t   f a c t o r   2 	Coat B budded total recruitment factor 2 from TNG - CBC	7.8823e-07	
+cc2_b1_mtc	R eBc1r u-i tMmTeCn t   f a c t o r   2 	Coat B budded total recruitment factor 2 from TNG - MTC	6.6824e-05	
+cc2_b1_cpm	R eBc1r u-i tGmCeCn t   f a c t o r   2 	Coat B budded total recruitment factor 2 from TNG - GCC	0.00020047	
+cc2_pm	R eGcCr u i t m e n t   f a c t o r   2 	Total recruitment factor 2 in growth cone membrane	100	
+cc2_a1_cg	R eAc1r u-i tCmBeCn t   f a c t o r   2 	Coat A budded total recruitment factor 2 from TNG - CBC	1.1325e-14	
+cc2_a1_mtc	R eAc1r u-i tMmTeCn t   f a c t o r   2 	Coat A budded total recruitment factor 2 from TNG - MTC	3.9661e-12	
+cc2_a1_cpm	R eAc1r u-i tGmCeCn t   f a c t o r   2 	Coat A budded total recruitment factor 2 from TNG - GCC	3.829e-11	
+cc2_b2_cg	R eBc2r u-i tCmBeCn t   f a c t o r   2 	Coat B budded total recruitment factor 2 from plasma membrane - CBC	0.16687	
+cc2_b2_mtc	R eBc2r u-i tMmTeCn t   f a c t o r   2 	Coat B budded total recruitment factor 2 from plasma membrane - MTC	0.00086636	
+cc2_b2_cpm	R eBc2r u-i tGmCeCn t   f a c t o r   2 	Coat B budded total recruitment factor 2 from plasma membrane - GCC	0.0005347	
+cc2_a2_cg	R eAc2r u-i tCmBeCn t   f a c t o r   2 	Coat A budded total recruitment factor 2 from plasma membrane - CBC	2.2222e-05	
+cc2_a2_mtc	RAe2c r-u iMtTmCe n t   f a c t o r   2 	Coat A budded total recruitment factor 2 from plasma membrane - MTC	1.1396e-05	
+cc2_a2_cpm	RAe2c r-u iGtCmCe n t   f a c t o r   2 	Coat A budded total recruitment factor 2 from plasma membrane - GCC	5.5999e-06	
+effective_tubulin	Effective Tubulin	Effective tubulin	9	
+dyn_MTs	Dynamic MTs	Dynamic microtubules	227.6279	
+stbl_MTs_length	Stable MTs Length	Stable microtubule length	220	
+total_membrane			174.0357	
